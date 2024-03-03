@@ -12,14 +12,14 @@ Before you begin, ensure you have met the following requirements:
 * [Node.js](https://nodejs.org/en "Download Node") 
 * [npm](https://www.npmjs.com/ "Download Node")
 
-## Run Locally
+## Contributing:
+We welcome contributions from the open-source community! If you'd like to contribute to Pixer Keeper, please fork the repository, make your changes, and submit a pull request. Be sure to follow the contribution guidelines outlined in the repository.
 
-To run **Pixer** locally, run this command on your git bash:
+## Feedback and Support:
+We value your feedback! If you encounter any issues, have suggestions for improvement, or simply want to share your experience with Memories Keeper, please don't hesitate to reach out to us via GitHub Issues or email.
 
-```bash
-git clone git@github.com:sauravkumar8178/pixer.git
-```
+## License:
+Memories Keeper is licensed under the [MIT License](https://github.com/sauravkumar8178/pixer?tab=MIT-1-ov-file#MIT-1-ov-file) . See the LICENSE file for details.
 
-## Deploy on Vercel
-
-Open [ChatVerse](https://chat-verse-sepia.vercel.app/) with your browser to see the result.
+## Acknowledgments:
+We would like to express our gratitude to the open-source community for their invaluable contributions and support in making Pixer Keeper a reality.
