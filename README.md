@@ -8,9 +8,10 @@ helps you to understand better about what we are offering.
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git")
-* [Node.js](https://nodejs.org/en "Download Node") 
-* [npm](https://www.npmjs.com/ "Download Node")
+* Node.js: Version 16.15.0 or later (v20.9.0 is highly recommended)
+* Package Managers: yarn/npm/pnpm
+* PHP: Version 8.1
+* MySQL: Version 8
 
 ## Contributing:
 We welcome contributions from the open-source community! If you'd like to contribute to Pixer, please fork the repository, make your changes, and submit a pull request. Be sure to follow the contribution guidelines outlined in the repository.
